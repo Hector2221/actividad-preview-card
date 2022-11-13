@@ -31,7 +31,7 @@ h2{
     line-height: 47.88px;
     color: var(--blancoGris);
     margin: 25px 0 35px 0;
-   
+    text-transform: uppercase;
 }
 p{
     font-family: var(--fuenteSecundaria);
